@@ -1,7 +1,7 @@
 +++
 title = 'My Second Post'
 date = 2025-01-23T09:49:38+01:00
-draft = true
+draft = false
 +++
 
-this is random tekst 2.0
+this is random text 2.0
